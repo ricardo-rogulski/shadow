@@ -1,0 +1,84 @@
+
+input, select, textarea, text {
+	border:1px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	background-color:#ffffff;
+	border-color: #9E9E9E;
+}
+
+.botaoEmb {
+	background-color:#205AA7;
+	font-family: arial;
+	font-size: 11px;
+	color: white;
+	font-weight: bold;
+	width: 85px;
+	border:1px;
+}
+	
+.botaoEmbMenor {
+	background-color:#205AA7;
+	font-family: arial;
+	font-size: 11px;
+	color: white;
+	font-weight: bold;
+	width: 40px;
+	border:1px;
+}
+
+.menu {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color: blue;
+}
+
+.menuEmb{
+	font-family: arial;
+	font-size: 10px;
+	color: white;
+}
+
+.panel{
+	margin-left: 200px;
+	width: 300px;
+	border-color: #FFFFFF;
+	border:1px;
+}
+
+.panelSave{
+	margin-left: 200px;
+	margin-right: 200px;
+	border-color: #205AA7;
+	align: center;
+	border: 1px;
+}
+
+.panelList{
+	margin-left: 200px;
+	margin-right: 200px;
+	border-color: #205AA7;
+	align: center;
+	border: 1px;
+}
+
+.whiteText{
+	color: white;	
+}
+
+.validationMessage{
+	font-family: arial;
+	font-size: 9px;
+	color: red;
+}
+
+#Tabs
+.rich-tab-header,.rich-tab-active,.rich-tabhdr-side-cell,.rich-tab-inactive{
+	color: #000000;  
+	font-weight: bold;
+}
+
+
+  
+
+

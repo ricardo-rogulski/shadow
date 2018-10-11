@@ -1,0 +1,30 @@
+
+
+Visualizar trava no gráfico.
+
+	Fazer funcionar também com travas de baixa.
+	
+
+
+
+********************REGRAS************************************
+
+Regra AA: travas de alta.
+AA -> Olha médias móveis e pontuação.
+
+
+Regra CC: Olha médias móveis.
+Na alta faz travas de alta e na baixa faz travas de baixa.
+
+
+
+Regra D: Olha a oscilação e as médias móveis.
+Na alta faz travas de alta e na baixa faz travas de baixa.
+
+
+
+
+
+
+
+	
